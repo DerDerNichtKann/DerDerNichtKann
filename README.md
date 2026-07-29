@@ -21,7 +21,6 @@
 I develop custom plugins and scalable systems for Minecraft communities, with a heavy focus on **competitive** performance and architecture.
 
 * **Projects:**
-  * <a href="https://noxora.net" style="vertical-align: middle;"><img src="https://github.com/DerDerNichtKann/DerDerNichtsKann/blob/main/NoxoraN512x.png?raw=true" width="24" height="24" style="vertical-align: middle;" alt="Noxora"></a> &nbsp; **[NOXORA.NET](https://noxora.net)**
   * <a href="https://ranked.scrims.ch" style="vertical-align: middle;"><img src="https://github.com/DerDerNichtKann/DerDerNichtsKann/blob/main/Unbenannt.jpg?raw=true" width="24" height="24" style="vertical-align: middle;" alt="Scrims"></a> &nbsp; **[SCRIMS.CH](https://ranked.scrims.ch)**
 
 ---
